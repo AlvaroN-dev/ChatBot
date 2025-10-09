@@ -585,7 +585,6 @@ setInterval(async () => {
 
 // ========== MENSAJES DE CONSOLA ==========
 console.log('%c🤖 Riwi ChatBot v1.0', 'font-size: 20px; color: #667eea; font-weight: bold;');
-console.log('%cAPI: ' + CONFIG.API_BASE_URL, 'color: #718096;');
 console.log('%cAtajos de teclado disponibles:', 'color: #48bb78; font-weight: bold;');
 console.log('  Ctrl/Cmd + K: Nueva conversación');
 console.log('  Ctrl/Cmd + L: Limpiar historial');
