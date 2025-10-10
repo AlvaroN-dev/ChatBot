@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ChatBot
 =======
 # 🤖 Riwi ChatBot - AI21 Studio
@@ -796,4 +795,5 @@ Este proyecto es parte del programa **Riwi** - Uso educativo.
 <div align="center">
 
 </div>
->>>>>>> 5ee033bda55afcf0aa298e3af66e575dd44b0b39
+
+
