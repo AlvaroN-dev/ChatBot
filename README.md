@@ -497,17 +497,17 @@ GET /api/chat/health
 
 ### Interfaz Principal
 
-![Pantalla de Bienvenida](demo/src//main/resources/img/chatBot.jpg)
+![Pantalla de Bienvenida](src/main/resources/static/img/chatBot.jpg)
 *Pantalla de bienvenida con quick actions y diseño moderno*
 
 ### Conversación Activa
 
-![Chat en Acción](demo/src/main/resources/img/chat-bot.jpg)
+![Chat en Acción](src/main/resources/static/img/chat-bot.jpg)
 *Ejemplo de conversación con el asistente AI21*
 
 ### Nueva Conversación
 
-![Nueva Conversación](demo/src/main/resources/img/chatbot-inicio.jpg)
+![Nueva Conversación](src/main/resources/static/img/chatbot-inicio.jpg)
 *Vista al iniciar una nueva conversación*
 
 ### Características del UI:
